@@ -1,0 +1,7 @@
+{
+	"users":
+	{
+		 "getListOfUsers" :"/api/users",
+		 "createUser"     : "/api/users"
+	}
+}
